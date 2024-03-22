@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yith Sopheaktra</h1>
-<h3 align="center">A passionate Web Development</h3>
+<h3 align="center">Passionate with Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yithsopheaktra8&label=Profile%20views&color=0e75b6&style=flat" alt="yithsopheaktra8" /> </p>
